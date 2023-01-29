@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Coustard&family=DM+Serif+Display&family=Dancing+Script:wght@400;500;600&family=Indie+Flower&family=Kanit:wght@100&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lavishly+Yours&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@1,100&family=Nunito:ital,wght@0,200;0,400;1,200;1,300;1,400&family=Oswald:wght@200&family=Raleway&family=Roboto+Condensed:wght@300&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;1,100;1,400;1,500&family=Smokum&family=Smooch&family=Square+Peg&family=Syne+Mono&family=Tapestry&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
+.logo{
+  width: 50px;
+  margin-left: 50px;
+}
+
+.react{
+  font-weight: bold;
+  color: #61dafb;
+  margin-right: 30px;
+
+}
+.link {
+  margin-right: 10px;
+ font-size: 15px;
+}
+.link:hover{
+  color: #61dafb !important ;
+}
+#int{
+border-bottom: 2px solid #61dafb;
+}
+.section{
+
+  padding: 50px;
+  background:   #282c34;
+
+}
+.blocInt{
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+ 
+}
+
+.paragraphe{
+color: white;
+font-size: 15px;
+line-height: 1.8;
+
+
+font-family: 'Roboto', sans-serif;
+
+}
+
+.titre{
+color: white;
+font-size: 20px;
+padding: 10px;
+font-weight: 600;
+font-family: 'Raleway', sans-serif;
+padding-top: 30px;
+}
+
+.code{
+  width: 100px;
+
+}
+.spa{
+  width:800px;
+  height: 400px;
+  display: block;
+  margin:auto;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 50px;
+}
+.utiliser{
+  padding-top: 20px;
+}
+.node{
+  display: block;
+  margin:auto;
+  background-size: cover;
+
+}
+
+.spanCom{
+  color: #61dafb;
+  font-weight: bold;
+  font-size: 17px;
+}
+.result{
+  display: block;
+  margin:auto;
+  background-size: cover;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.res{
+  margin-left: 100px;
+}
+
+.vdom{
+  width: 500px;
+  padding-top: 30px;
+}
+.contor{
+  margin-top: 20px;
+  border: 3px solid white;
+  padding: 20px;
+  border-radius: 10px;
+}
